@@ -1,1 +1,1 @@
-# youtube-stream-chat-randomizer
+# YouTube stream-chat randomizer
